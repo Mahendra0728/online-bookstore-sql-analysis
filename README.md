@@ -31,7 +31,7 @@ This project analyzes an online bookstore database using SQL to identify sales t
 
 ### Genre-wise Sales Analysis
 
-![Genre Sales]()
+![Genre Sales](Screenshots/Genre_Sales_Analysis.png)
 
 ### Highest Spending Customer
 
