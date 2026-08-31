@@ -27,7 +27,7 @@ This project analyzes an online bookstore database using SQL to identify sales t
 
 ### Total Revenue Analysis
 
-![Total Revenue](screenshots/Total_Revenue_Analysis.png)
+![Total Revenue](Screenshots/Genre_Sales_Analysis.png)
 
 ### Genre-wise Sales Analysis
 
