@@ -27,20 +27,20 @@ This project analyzes an online bookstore database using SQL to identify sales t
 
 ### Total Revenue Analysis
 
-![Total Revenue](Screenshots/Genre_Sales_Analysis.png)
+![Total Revenue](Screenshots/Total_Revenue_Analysis.png)
 
 ### Genre-wise Sales Analysis
 
-![Genre Sales](screenshots/Genre_Sales_Analysis.png)
+![Genre Sales]()
 
 ### Highest Spending Customer
 
-![Top Customer](screenshots/Top_Customer_Analysis.png)
+![Top Customer](Screenshots/Top_Customer_Analysis.png)
 
 ### Most Ordered Book
 
-![Most Ordered Book](screenshots/Most_Ordered_Book.png)
+![Most Ordered Book](Screenshots/Most_Ordered_Book.png)
 
 ### Remaining Inventory Analysis
 
-![Inventory Analysis](screenshots/Inventory_Analysis.png)
+![Inventory Analysis](Screenshots/Inventory_Analysis.png)
