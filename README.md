@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes an online bookstore database using SQL to identify sales trends, customer purchasing behavior, inventory performance, and revenue insights.
+This project analyzes an online bookstore database using SQL to identify sales performance, customer purchasing behavior, inventory performance, and revenue insights.
 
 ## SQL Concepts Used
 
