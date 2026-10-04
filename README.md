@@ -11,9 +11,11 @@ This project analyzes an online bookstore database using SQL to identify sales p
 - GROUP BY
 - ORDER BY
 - Aggregate Functions
-- JOINS
+- JOINs
 - HAVING Clause
-- Subqueries
+- DISTINCT
+- COALESCE
+- LIMIT
 
 ## Key Analysis Performed
 
@@ -22,6 +24,9 @@ This project analyzes an online bookstore database using SQL to identify sales p
 - Genre-wise Sales Analysis
 - Inventory Analysis
 - Most Frequently Ordered Books
+- Author-wise Book Sales
+- High-Value Order Analysis
+- Book Stock Analysis
 
 ## Sample Query Outputs
 
